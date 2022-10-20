@@ -1,3 +1,6 @@
 [submodule "sub"]
 	path = sub
 	url = ./sub
+[submodule "sub-r"]
+	path = sub-r
+	url = https://github.com/burakgumusfb/main-repo/sub-r.git
